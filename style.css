@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#tasks-list li {
+    margin-top: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
